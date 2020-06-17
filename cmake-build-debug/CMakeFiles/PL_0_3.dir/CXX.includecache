@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/computer/Documents/学习/编译原理/实验/实验三/PL-0-3/src/exp3.h
+string
+-
+vector
+-
+
+/Users/computer/Documents/学习/编译原理/实验/实验三/PL-0-3/src/init-process.cpp
+variables.h
+/Users/computer/Documents/学习/编译原理/实验/实验三/PL-0-3/src/variables.h
+exp3.h
+/Users/computer/Documents/学习/编译原理/实验/实验三/PL-0-3/src/exp3.h
+iostream
+-
+
+/Users/computer/Documents/学习/编译原理/实验/实验三/PL-0-3/src/variables.h
+list
+-
+string
+-
+vector
+-
+map
+-
+regex
+-
+set
+-
+

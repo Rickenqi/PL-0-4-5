@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PL_0_3.dir/src/main.cpp.o CMakeFiles/PL_0_3.dir/src/file-process.cpp.o CMakeFiles/PL_0_3.dir/src/init-process.cpp.o CMakeFiles/PL_0_3.dir/src/exp3.cpp.o  -o PL_0_3 
