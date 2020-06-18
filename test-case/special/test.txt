@@ -1,6 +1,10 @@
-    a + b - d ()
-    b + c * k (a + b)
-    c + d -
-    a * c - / a
+    a + b
+    b + c
+    c + d
+    a + c / a
     (a + b / a
-    a + c * a - b)
+    (a+b*c-d)+c
+    c*c+d/e
+    a+6*c
+    100
+    1+2

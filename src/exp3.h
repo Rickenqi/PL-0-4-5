@@ -27,7 +27,9 @@ private:
     int cur_pos;
     vector<string> error_information;
     vector<pair<string, string>> vec;
-    bool expression(int w);
-    bool term();
-    bool factor();
+    vector<vector<string>> tuples;
+    int tot;
+    bool expression(int w,string &num);
+    bool term(string &num);
+    bool factor(string &num);
 };
